@@ -28,3 +28,4 @@ TaxonC, Group2
 
 ## Output example:
 
+<img src="https://github.com/ODiogoSilva/vcf2PCA/raw/master/examples/demo.gif">
