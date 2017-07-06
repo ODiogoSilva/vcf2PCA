@@ -9,6 +9,15 @@ vcf2PCA requires R and the following libraries:
 - SNPRelate
 - plotly
 
+## Installation
+
+```
+# SNPRelate
+source("https://bioconductor.org/biocLite.R")
+biocLite("SNPRelate")
+install.packages("plotly")
+```
+
 ## Usage
 
 ```
